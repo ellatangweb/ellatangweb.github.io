@@ -1,5 +1,5 @@
 p{
-    color: rgb(234,152,145);
+    color: rgb(191, 100, 80);
 }
 .conan{
     background-color:rgb(73, 120, 207);
@@ -8,7 +8,7 @@ a.ellalinks{
     padding: 0px 10px;
     margin: 0px 0px 0px 10px;
     border-radius: 40px;
-    color:cadetblue;
+    color:rgb(44, 82, 187);
 }
 a.ellalinks:hover{
     background-color: cornflowerblue;
@@ -70,4 +70,7 @@ h3.ellasmallh3{
    background-image: url(../assets/img/封面照.jpg);
     background-size: cover;
     background-repeat: no-repeat; 
+}
+.firstbgcolor{
+    background-color: rgb(120, 169, 204);
 }
