@@ -32,14 +32,42 @@ p.ellasmallp{
     padding: -5px;
     margin-bottom: -1px;
 }
-ellacrop{
+.ellacrop{
     height:200px;
     overflow: hidden;
     object-fit: cover;
     border: 5px;
 }
 .ellacallmebg{
-    background-image: url(../assets/img/bg.jpeg);
+    background-image: url(../assets/img/封面照.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+}
+.photobg{
+    background-image: url(../assets/img/photopg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p.ellafirstpg{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    width: -5px;
+    padding: -5px;
+    margin-bottom: -1px;
+}
+h3.ellasmallh3{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;
+    background-size: auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid blanchedalmond;
+   
+}
+.ellapg{
+   background-image: url(../assets/img/封面照.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
 }
