@@ -1,5 +1,6 @@
 p{
-    color: rgb(191, 100, 80);
+    color: rgb(24, 18, 18);
+    font-size: 20px;
 }
 .conan{
     background-color:rgb(73, 120, 207);
@@ -72,5 +73,56 @@ h3.ellasmallh3{
     background-repeat: no-repeat; 
 }
 .firstbgcolor{
-    background-color: rgb(120, 169, 204);
+    background-color: rgb(180, 219, 247);
 }
+.ellahl{
+color:rgb(231, 146, 133);
+font-weight: 500;
+}
+.iansui-regular {
+  font-family: "Iansui", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.playball-regular {
+  font-family: "Playball", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.boogaloo-regular {
+  font-family: "Boogaloo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.potta-one-regular {
+  font-family: "Potta One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.cmiltonian-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.rubik-dirt-regular {
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.fascinate-inline-regular {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.miltonian-regular {
+  font-family: "Miltonian", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
