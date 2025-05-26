@@ -1,6 +1,7 @@
 p{
     color: rgb(24, 18, 18);
     font-size: 20px;
+    
 }
 .conan{
     background-color:rgb(73, 120, 207);
@@ -136,4 +137,15 @@ h3.ellah3{
 h2.ellah2{
     font-size: 80px;
     font-weight: 800;
+}
+.list-group-item.active {
+    z-index: 2;
+    color: var(--bs-list-group-active-color);
+    background-color: #99CCFF;
+    border-color: #99CCFF;
+}
+.card-textlow{
+  text-align:justify;
+   font-size:medium;
+   color:rgb(118, 110, 110) ;
 }
