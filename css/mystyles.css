@@ -99,7 +99,7 @@ font-weight: 500;
   font-weight: 400;
   font-style: normal;
 }
-.potta-one-regular {
+.potta-regular{
   font-family: "Potta One", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -124,5 +124,16 @@ font-weight: 500;
   font-weight: 400;
   font-style: normal;
 }
-
-
+.ellabg{
+    background-image: url(../assets/img/ellabg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3.ellah3{
+    font-size: 50px;
+    font-weight: 500;
+}
+h2.ellah2{
+    font-size: 80px;
+    font-weight: 800;
+}
