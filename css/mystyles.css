@@ -149,3 +149,27 @@ h2.ellah2{
    font-size:medium;
    color:rgb(118, 110, 110) ;
 }
+.linkcolor{
+  color: #17538f;
+}
+.ellatop{
+  text-align: center;
+  line-height: 2.5;
+  font-size: 1rem;
+  background-color: #17538f;
+}
+.styled {
+    position: fixed;
+    bottom: 10px;  
+    right: 10px;  
+    width: 10px;
+    height: 10px;
+    border: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;  
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    z-index: 999;
+}
